@@ -1,6 +1,6 @@
 # 위드펫
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/72e8af6a-6e6b-4b0f-9c82-b844771fc406/Untitled.png)
+![with_pet](../image/withpet.png)
 
 ### 프로젝트 소개
 
@@ -36,3 +36,7 @@
 **백엔드 스웨거 URL**
 
 https://withpet.site/swagger-ui/
+
+### 서비스 내용
+![with_pet_template](../image/withpet_template.png)
+
