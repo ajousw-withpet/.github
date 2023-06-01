@@ -1,6 +1,6 @@
 # 위드펫
 
-![with_pet](../image/withpet.png)
+![with_pet](https://github.com/ajousw-withpet/.github/blob/main/image/withpet.png)
 
 ### 프로젝트 소개
 
@@ -38,5 +38,5 @@
 https://withpet.site/swagger-ui/
 
 ### 서비스 내용
-![with_pet_template](../image/withpet_template.png)
+![with_pet_template](https://github.com/ajousw-withpet/.github/blob/main/image/withpet_template.png)
 
