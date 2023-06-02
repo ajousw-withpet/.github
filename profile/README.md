@@ -17,6 +17,12 @@
 3. 온도 시스템 기능
     - 펫시터는 온도 정보를 조회하여 반려견의 사회성 정도와 반려인의 반려견 관심 정도를 파악한 후 예약을 승낙 및 거절할 수 있습니다.
 
+### 프론트엔드 repository 바로가기
+https://github.com/ajousw-withpet/with_pet_frontend
+
+### 백엔드 repository 바로가기
+https://github.com/ajousw-withpet/with_pet_backend
+
 ### 기술 스택
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
@@ -24,11 +30,11 @@
 
 | role | name | part | email | github |
 | --- | --- | --- | --- | --- |
-| 팀장 | 이재영 | 프론트 개발 | mailto:joe981125@ajou.ac.kr | https://github.com/2jaeyoung2 |
-| 팀원 | 이지현 | 프론트 개발 | mailto:wlgus97@ajou.ac.kr | https://github.com/wlgus8284 |
-| 팀원 | 강윤지 | 프론트 개발 | mailto:dbswl701@ajou.ac.kr | https://github.com/dbswl701 |
-| 팀원 | 장승현 | 백엔드 개발 | mailto:jason5102@ajou.ac.kr | https://github.com/j-seunghyun |
-| 팀원 | 김지수 | 백엔드 개발 | mailto:chensa1018@ajou.ac.kr | https://github.com/strongcookdas |
+| 팀장 | 이재영 | 프론트 개발 | joe981125@ajou.ac.kr | https://github.com/2jaeyoung2 |
+| 팀원 | 이지현 | 프론트 개발 | wlgus97@ajou.ac.kr | https://github.com/wlgus8284 |
+| 팀원 | 강윤지 | 프론트 개발 | dbswl701@ajou.ac.kr | https://github.com/dbswl701 |
+| 팀원 | 장승현 | 백엔드 개발 | jason5102@ajou.ac.kr | https://github.com/j-seunghyun |
+| 팀원 | 김지수 | 백엔드 개발 | chensa1018@ajou.ac.kr | https://github.com/strongcookdas |
 
 ### 배포 주소
 
