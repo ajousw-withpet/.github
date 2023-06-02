@@ -38,5 +38,5 @@
 https://withpet.site/swagger-ui/
 
 ### 서비스 내용
-![with_pet](https://github.com/ajousw-withpet/.github/blob/main/image/위드펫 템플릿.png)
+![with_pet](https://github.com/ajousw-withpet/.github/blob/main/image/%EC%9C%84%EB%93%9C%ED%8E%AB%20%ED%85%9C%ED%94%8C%EB%A6%BF.png)
 
