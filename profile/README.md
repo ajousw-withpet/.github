@@ -17,6 +17,9 @@
 3. 온도 시스템 기능
     - 펫시터는 온도 정보를 조회하여 반려견의 사회성 정도와 반려인의 반려견 관심 정도를 파악한 후 예약을 승낙 및 거절할 수 있습니다.
 
+### 기술 스택
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+
 ### ajouNice 팀
 
 | role | name | part | email | github |
@@ -39,9 +42,6 @@ https://withpet.site/swagger-ui/
 
 ### 서비스 내용
 ![with_pet](https://github.com/ajousw-withpet/.github/blob/main/image/%EC%9C%84%EB%93%9C%ED%8E%AB%20%ED%85%9C%ED%94%8C%EB%A6%BF.png)
-
-### 기술 스택
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 
 
